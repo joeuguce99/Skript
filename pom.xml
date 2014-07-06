@@ -137,10 +137,9 @@
 		<repository>
 			<id>sk89q-repo</id>
 			<url>http://maven.sk89q.com/repo/</url>
-		</repository>
-		<repository>
+		</repository><repository>
 			<id>vault-repo</id>
-			<url>http://ci.herocraftonline.com/plugin/repository/everything/</url>
+			<url>http://nexus.theyeticave.net/content/repositories/pub_releases</url>
 		</repository>
 		<repository>
 			<!-- added by WorldGuard, but doesn't seem to exist anymore -->
